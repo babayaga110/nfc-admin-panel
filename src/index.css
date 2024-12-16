@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Dosis", sans-serif;
+}
+
+.firebase-emulator-warning{
+  display: none;
+}
